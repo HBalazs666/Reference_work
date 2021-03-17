@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Jarat">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAIAAIAAQAAAAAAAAAgAAMAAAAAAAAAAAAgAAAE=</HashCode>
+      <FileName>jarat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ut">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAABABAAAAIAAgAAABAQAAAAAAAIAA=</HashCode>
+      <FileName>ut.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Variable">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAIAAAAAAIAAAAAAAASAAAgAAAA=</HashCode>
+      <FileName>Variable.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
